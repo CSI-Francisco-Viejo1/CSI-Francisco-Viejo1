@@ -32,7 +32,7 @@
   </p>   
   
  <div align="center">
-    <img    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8voZ5L6Ez9zUVLHUCuhvWr8Cc_qFWzOTzkA&usqp=CAU"
+    <img    src="https://i1.sndcdn.com/artworks-qRzzz688yvqpzrni-x6koiw-t500x500.jpg"
             title="Kanye West"
             width="50%"
             height="50%" 
