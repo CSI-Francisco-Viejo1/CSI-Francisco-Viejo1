@@ -29,20 +29,22 @@
     
  <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">   
     Kanye has one of the best set of albums of all time, from the topcharting albums from the "College" trilogy like Late Registration, College Dropout, and Graduation. And collaboration tapes with artists like Kid Cudi on "Kids See Ghosts" and Jay-Z on Watch The Throne, Kanye has earned his respect to having an amazing set of enjoyable a replayable albums. My personal favorite album, "My Beautiful Dark Twisted Fantasy was recorded in a isolated house in hawaii with him and his manager and 2 friends to help them concentrate on making one of the best albums of all time. This album was created after being rejected by society after degrading Taylor Swifts Grammy award live, and to make a good comeback from this terrible tragedy he had do imprese his audience, which he did. His most recent album "Donda" was dedicated to his recently passed mother named Donda, which was one of the main factors of the start of his depression
-     
-     <div align="center">
+  </p>   
+  
+ <div align="center">
     <img    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8voZ5L6Ez9zUVLHUCuhvWr8Cc_qFWzOTzkA&usqp=CAU"
             title="Kanye West"
             width="50%"
             height="50%" 
             />
+</div>
     
  <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">  
     Because of Ye's bipolar disorder he has created many controvercies and has been cancelled by society many times. Some of Kanyes most popular and  <a href="https://www.youtube.com/watch?v=qtBs-bUUJJM">controversial</a> were: steeling the microphone from Taylor SWift at the Grammys, announcing his precidential campaign, and legally changing his name to Ye. 
                                                                                                                                   
                                                                                                                                    
     
-</p>
+
 
 
 <br>
