@@ -8,15 +8,17 @@
             />
 </div>
 
-<h2 align="center" > Influence, Discography, Controvercy, Legend
-<br>
-
 <div align="center">
     <img    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8voZ5L6Ez9zUVLHUCuhvWr8Cc_qFWzOTzkA&usqp=CAU"
             title="Kanye West"
             width="50%"
             height="50%" 
             />
+    
+<h1 style="font-family:Brush Script MT; font-size:300%;" align="center" > <b> Influence, Discography, Controvercy, Legend </b></h1>
+<br>
+
+
 </div>
 
 
