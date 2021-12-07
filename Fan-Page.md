@@ -21,8 +21,10 @@
 
 
 <br>
+    
 <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
      Kanye West is my favorite artist of all time. He is the creator of one of the best hip hop albums of all time,<a href="https://www.youtube.com/watch?v=UTH1VNHLjng&list=PL8YH4mOwWryUMna911yJM2B52iIIzigKy">My Beautiful Dark Twisted Fantasy</a>. Kanye is considered of of the hiphop "GOATS", from his very good lyricism, amazing production, to the ideas and meaning behind his music. Kanye also has one of the most complete and perfect discographies in music history. From the topcharting albums from the "College" trilogy like Late Registration, College Dropout, and Graduation. And collaboration tapes with artists like Kid Cudi on "Kids See Ghosts" and Jay-Z on Watch The Throne, Kanye has earned his respect to having an amazing set of enjoyable a replayable albums. My personal favorite album, "My Beautiful Dark Twisted Fantasy was recorded in a isolated house in hawaii with him and his manager and 2 friends to help them concentrate on making one of the best albums of all time. This album was created after being rejected by society after degrading Taylor Swifts Grammy award live, and to make a good comeback from this terrible tragedy he had do imprese his audience, which he did. Kanyes Influence is also refelcted on the new and upcoming artists sound.  
+    
 </p>
 
 
@@ -48,19 +50,27 @@
     </tr>
     <tr>
         <th>Instagram</th>
-        <td>@kanyewest</td>
+        <td><a href="https://www.instagram.com/kanyewest/"> @kanyewest </a></td>
     </tr>
     <tr>
         <th>Twitter</th>
-        <td>@kanyewest</td>
+        <td><a href="https://twitter.com/kanyewest"> @kanyewest </a></td>
     </tr>
     <tr>
         <th>Youtube</th>
-        <td>@Kanye West</td>
+        <td><a href="https://www.youtube.com/user/kanyewest"> @Kanye West </a></td>
     </tr>
     <tr>
         <th>Spotify</th>
         <td><a href="https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"> @Kanye West </a></td>
+    </tr> 
+    <tr>
+        <th>Net Worth</th>
+        <td>Aprox. $6.6b</td>
+    </tr>
+    <tr>
+        <th>Albums</th>
+        <td>12</td>
     </tr>
 </table>
 
