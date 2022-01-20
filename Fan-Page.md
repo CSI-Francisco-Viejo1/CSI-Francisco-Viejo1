@@ -1,9 +1,10 @@
 <!DOCTYPE html>
+
 <html>
     <head>
         <title>Kanye West Fanpage</title>
     </head>
-    <body>
+    <body bgcolor="Orange">
         <h1 style="font-family:Trebuchet MS; font-size:300%;" align="center" > <b> Kanye "YE" West </b></h1>
         <div align="center">
             <img    src="https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2015/12/22/kanye-west.jpg"
